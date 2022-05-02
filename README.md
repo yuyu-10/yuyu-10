@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yuyu-10
 - 👀 I’m interested in coding for fun and for work too
 - 🌱 I’m currently learning hen i can
-- 💞️ I’m looking to collaborate on what you want
+- 💞️ I’m looking to collaborate with my friend bartz LOL
 - 📫 XX
 
 <!---
