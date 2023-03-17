@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manon</h1>
-<h3 align="center">A young passionate woman who is starting to learn programming..</h3>
+<h3 align="center">A young passionate woman who is starting to learn programming.</h3>
 
 - 🔭 I’m currently working on **a furniture sales project.**
 
