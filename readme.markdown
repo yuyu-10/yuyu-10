@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help with **a work-study program starting in September 2023 in programming please**
 
-- 👨‍💻 All of my projects are available at [GitHub just here](GitHub just here)
-
 - 📫 How to reach me **manonleba@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
