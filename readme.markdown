@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a furniture sales project.**
 
-- 🌱 I’m currently learning **Javascript, React, Mongodb, SQLite**
+- 🌱 I’m currently learning **Javascript, ReactJS/Native, Mongodb, PostgreSQL, NodeJS, Express, Tailwind, HTML, CSS**
 
 - 🤝 I’m looking for help with **a work-study program starting in September 2023 in programming please**
 
